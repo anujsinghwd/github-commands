@@ -59,3 +59,8 @@
 ```jsx
   git checkout <branch_name>
 ```
+## Switch to the master branch
+
+```jsx
+  git checkout master
+```
