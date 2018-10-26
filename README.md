@@ -36,3 +36,9 @@
 ```jsx
   git push origin master
 ```
+
+## Cheking Status
+
+```jsx
+  git status
+```
