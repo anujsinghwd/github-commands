@@ -64,3 +64,9 @@
 ```jsx
   git checkout master
 ```
+
+## Clone A repo
+
+```jsx
+  git clone Repo URL
+```
