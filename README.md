@@ -20,8 +20,19 @@
 
 ### Push an existing repository from the command line
 ```jsx
-  git remote add origin https://github.com/anujsinghwd/github-commands.git
+  git remote add origin https://github.com/username/repo-name.git
 ```
 ```jsx
   git push -u origin master
+```
+
+### Updating a clone repo
+```jsx
+  git add .
+```
+```jsx
+  git commit -m "updating repo"
+```
+```jsx
+  git push origin master
 ```
