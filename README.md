@@ -42,3 +42,20 @@
 ```jsx
   git status
 ```
+
+## Git branches
+
+```jsx
+  git branch
+```
+
+## Create a new feature branch in the repository
+
+```jsx
+  git branch <branch_name>
+```
+## Switch to the branch
+
+```jsx
+  git checkout <branch_name>
+```
